@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.49fe412d.chunk.css",
+    "main.js": "./static/js/main.18021c5f.chunk.js",
+    "main.js.map": "./static/js/main.18021c5f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b89c3f23.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b89c3f23.js.map",
+    "static/js/2.15e27ef2.chunk.js": "./static/js/2.15e27ef2.chunk.js",
+    "static/js/2.15e27ef2.chunk.js.map": "./static/js/2.15e27ef2.chunk.js.map",
+    "static/js/3.81e3c33e.chunk.js": "./static/js/3.81e3c33e.chunk.js",
+    "static/js/3.81e3c33e.chunk.js.map": "./static/js/3.81e3c33e.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.49fe412d.chunk.css.map": "./static/css/main.49fe412d.chunk.css.map",
+    "static/js/2.15e27ef2.chunk.js.LICENSE.txt": "./static/js/2.15e27ef2.chunk.js.LICENSE.txt",
+    "static/media/Ari Ratna Gumilang.ef34e7c7.jpeg": "./static/media/Ari Ratna Gumilang.ef34e7c7.jpeg",
+    "static/media/Astrid.2ba77aa9.jpeg": "./static/media/Astrid.2ba77aa9.jpeg",
+    "static/media/Dita Khairunnisa.c8889168.jpeg": "./static/media/Dita Khairunnisa.c8889168.jpeg",
+    "static/media/Edi Kurniadi.9e627d8b.jpeg": "./static/media/Edi Kurniadi.9e627d8b.jpeg",
+    "static/media/Elisa.41b23c97.jpeg": "./static/media/Elisa.41b23c97.jpeg",
+    "static/media/Fahmi Murtadha.947f06e9.jpeg": "./static/media/Fahmi Murtadha.947f06e9.jpeg",
+    "static/media/Felicia Kiki Simanjaya.9897db4b.jpeg": "./static/media/Felicia Kiki Simanjaya.9897db4b.jpeg",
+    "static/media/Felicia Novi Simanjaya.305b748c.jpeg": "./static/media/Felicia Novi Simanjaya.305b748c.jpeg",
+    "static/media/Inda Purnama.31996908.jpeg": "./static/media/Inda Purnama.31996908.jpeg",
+    "static/media/Indah Eka Asriani.92afc941.jpeg": "./static/media/Indah Eka Asriani.92afc941.jpeg",
+    "static/media/Musawwir Usman.aa63206e.jpeg": "./static/media/Musawwir Usman.aa63206e.jpeg",
+    "static/media/Nadia Andini.9002da5d.jpeg": "./static/media/Nadia Andini.9002da5d.jpeg",
+    "static/media/Nunung Kadarsih.4701288a.jpeg": "./static/media/Nunung Kadarsih.4701288a.jpeg",
+    "static/media/Nury Kamelia.3f142702.jpeg": "./static/media/Nury Kamelia.3f142702.jpeg",
+    "static/media/Oki Anggara.a6a37a44.jpeg": "./static/media/Oki Anggara.a6a37a44.jpeg",
+    "static/media/Rifqah Sajidah.b0203bf6.jpeg": "./static/media/Rifqah Sajidah.b0203bf6.jpeg",
+    "static/media/Sari Setiawati.30002827.jpeg": "./static/media/Sari Setiawati.30002827.jpeg",
+    "static/media/Shafira Kurnia.8492ef52.jpeg": "./static/media/Shafira Kurnia.8492ef52.jpeg",
+    "static/media/index.css": "./static/media/main.fa58bf9e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b89c3f23.js",
+    "static/js/2.15e27ef2.chunk.js",
+    "static/css/main.49fe412d.chunk.css",
+    "static/js/main.18021c5f.chunk.js"
+  ]
+}
