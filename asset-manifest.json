@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.49fe412d.chunk.css",
-    "main.js": "./static/js/main.18021c5f.chunk.js",
-    "main.js.map": "./static/js/main.18021c5f.chunk.js.map",
+    "main.css": "./static/css/main.d95a7708.chunk.css",
+    "main.js": "./static/js/main.e28955a3.chunk.js",
+    "main.js.map": "./static/js/main.e28955a3.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b89c3f23.js",
     "runtime-main.js.map": "./static/js/runtime-main.b89c3f23.js.map",
     "static/js/2.15e27ef2.chunk.js": "./static/js/2.15e27ef2.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.81e3c33e.chunk.js": "./static/js/3.81e3c33e.chunk.js",
     "static/js/3.81e3c33e.chunk.js.map": "./static/js/3.81e3c33e.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.49fe412d.chunk.css.map": "./static/css/main.49fe412d.chunk.css.map",
+    "static/css/main.d95a7708.chunk.css.map": "./static/css/main.d95a7708.chunk.css.map",
     "static/js/2.15e27ef2.chunk.js.LICENSE.txt": "./static/js/2.15e27ef2.chunk.js.LICENSE.txt",
     "static/media/Ari Ratna Gumilang.ef34e7c7.jpeg": "./static/media/Ari Ratna Gumilang.ef34e7c7.jpeg",
     "static/media/Astrid.2ba77aa9.jpeg": "./static/media/Astrid.2ba77aa9.jpeg",
@@ -35,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.b89c3f23.js",
     "static/js/2.15e27ef2.chunk.js",
-    "static/css/main.49fe412d.chunk.css",
-    "static/js/main.18021c5f.chunk.js"
+    "static/css/main.d95a7708.chunk.css",
+    "static/js/main.e28955a3.chunk.js"
   ]
 }
